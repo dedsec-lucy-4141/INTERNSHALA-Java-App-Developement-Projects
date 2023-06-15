@@ -63,7 +63,6 @@ Hi! I am Mayur, a developer focused on crafting
 * **Controller** `JAVA-fx`
 * **app_layout** `FXML`
 
-![C2F & F2C](https://github.com/dedsec-lucy-4141/INTERNSHALA-Java-App-Developement-Projects/blob/main/Temperature%20Converter%20Tool/C2F%20%2B%203.png)
 
 > :hash:#JAVA #Lockdown :hash:#FX #Jar-File :hash:#App #FXML :hash:#Dev
 
