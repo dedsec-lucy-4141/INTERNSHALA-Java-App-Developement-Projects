@@ -64,7 +64,7 @@ Hi! I am Mayur, a developer focused on crafting
 * **app_layout** `FXML`
 
 
-> :hash:#JAVA #Lockdown :hash:#FX #Jar-File :hash:#App #FXML :hash:#Dev
+> :hash:#JAVA :hash:#FX #Jar-File :hash:#App #FXML :hash:#Dev
 
 #### :heavy_plus_sign::: Get Socialistic :::heavy_plus_sign:
 
